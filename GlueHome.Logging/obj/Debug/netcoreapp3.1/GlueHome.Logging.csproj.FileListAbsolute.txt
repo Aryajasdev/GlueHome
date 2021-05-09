@@ -1,0 +1,9 @@
+C:\Interview\GlueHome\GlueHome.Logging\bin\Debug\netcoreapp3.1\GlueHome.Logging.deps.json
+C:\Interview\GlueHome\GlueHome.Logging\bin\Debug\netcoreapp3.1\GlueHome.Logging.dll
+C:\Interview\GlueHome\GlueHome.Logging\obj\Debug\netcoreapp3.1\GlueHome.Logging.csprojAssemblyReference.cache
+C:\Interview\GlueHome\GlueHome.Logging\obj\Debug\netcoreapp3.1\GlueHome.Logging.AssemblyInfoInputs.cache
+C:\Interview\GlueHome\GlueHome.Logging\obj\Debug\netcoreapp3.1\GlueHome.Logging.AssemblyInfo.cs
+C:\Interview\GlueHome\GlueHome.Logging\bin\Debug\netcoreapp3.1\GlueHome.Logging.pdb
+C:\Interview\GlueHome\GlueHome.Logging\obj\Debug\netcoreapp3.1\GlueHome.Logging.csproj.CoreCompileInputs.cache
+C:\Interview\GlueHome\GlueHome.Logging\obj\Debug\netcoreapp3.1\GlueHome.Logging.dll
+C:\Interview\GlueHome\GlueHome.Logging\obj\Debug\netcoreapp3.1\GlueHome.Logging.pdb

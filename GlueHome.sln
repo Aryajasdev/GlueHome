@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GlueHome", "GlueHome\GlueHome.csproj", "{A380C5E6-2705-40C7-970E-334E89CAB6FC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GlueHome.Data", "GlueHome.Data\GlueHome.Data.csproj", "{E7C50EBA-6903-4253-B090-642D17DB0C17}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GlueHome.Domain", "GlueHome.Domain\GlueHome.Domain.csproj", "{274F130C-C74B-4324-BD46-AABA76232197}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GlueHome.Model", "GlueHome.Model\GlueHome.Model.csproj", "{69D9FBBC-5633-485F-AE9C-11E00FA419AB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GlueHome.Tests", "GlueHome.Tests\GlueHome.Tests.csproj", "{2B9E2549-2D52-497F-B576-C2B971CC74E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlueHome.Logging", "GlueHome.Logging\GlueHome.Logging.csproj", "{F75B7FD9-8334-42A7-B6C9-8F44B07287CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A380C5E6-2705-40C7-970E-334E89CAB6FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A380C5E6-2705-40C7-970E-334E89CAB6FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A380C5E6-2705-40C7-970E-334E89CAB6FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A380C5E6-2705-40C7-970E-334E89CAB6FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7C50EBA-6903-4253-B090-642D17DB0C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7C50EBA-6903-4253-B090-642D17DB0C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7C50EBA-6903-4253-B090-642D17DB0C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7C50EBA-6903-4253-B090-642D17DB0C17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{274F130C-C74B-4324-BD46-AABA76232197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{274F130C-C74B-4324-BD46-AABA76232197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{274F130C-C74B-4324-BD46-AABA76232197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{274F130C-C74B-4324-BD46-AABA76232197}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69D9FBBC-5633-485F-AE9C-11E00FA419AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69D9FBBC-5633-485F-AE9C-11E00FA419AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69D9FBBC-5633-485F-AE9C-11E00FA419AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69D9FBBC-5633-485F-AE9C-11E00FA419AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B9E2549-2D52-497F-B576-C2B971CC74E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B9E2549-2D52-497F-B576-C2B971CC74E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B9E2549-2D52-497F-B576-C2B971CC74E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B9E2549-2D52-497F-B576-C2B971CC74E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F75B7FD9-8334-42A7-B6C9-8F44B07287CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F75B7FD9-8334-42A7-B6C9-8F44B07287CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F75B7FD9-8334-42A7-B6C9-8F44B07287CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F75B7FD9-8334-42A7-B6C9-8F44B07287CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D82E5614-70FE-43FA-8ADB-CFCC3ECA6AF3}
+	EndGlobalSection
+EndGlobal

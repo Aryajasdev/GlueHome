@@ -1,0 +1,14 @@
+C:\Interview\GlueHome\GlueHome.Domain\obj\Debug\netcoreapp3.1\GlueHome.Domain.csprojAssemblyReference.cache
+C:\Interview\GlueHome\GlueHome.Domain\obj\Debug\netcoreapp3.1\GlueHome.Domain.AssemblyInfoInputs.cache
+C:\Interview\GlueHome\GlueHome.Domain\obj\Debug\netcoreapp3.1\GlueHome.Domain.AssemblyInfo.cs
+C:\Interview\GlueHome\GlueHome.Domain\bin\Debug\netcoreapp3.1\GlueHome.Domain.deps.json
+C:\Interview\GlueHome\GlueHome.Domain\bin\Debug\netcoreapp3.1\GlueHome.Domain.dll
+C:\Interview\GlueHome\GlueHome.Domain\bin\Debug\netcoreapp3.1\GlueHome.Domain.pdb
+C:\Interview\GlueHome\GlueHome.Domain\bin\Debug\netcoreapp3.1\GlueHome.Data.dll
+C:\Interview\GlueHome\GlueHome.Domain\bin\Debug\netcoreapp3.1\GlueHome.Model.dll
+C:\Interview\GlueHome\GlueHome.Domain\bin\Debug\netcoreapp3.1\GlueHome.Data.pdb
+C:\Interview\GlueHome\GlueHome.Domain\bin\Debug\netcoreapp3.1\GlueHome.Model.pdb
+C:\Interview\GlueHome\GlueHome.Domain\obj\Debug\netcoreapp3.1\GlueHome.Domain.csproj.CopyComplete
+C:\Interview\GlueHome\GlueHome.Domain\obj\Debug\netcoreapp3.1\GlueHome.Domain.dll
+C:\Interview\GlueHome\GlueHome.Domain\obj\Debug\netcoreapp3.1\GlueHome.Domain.pdb
+C:\Interview\GlueHome\GlueHome.Domain\obj\Debug\netcoreapp3.1\GlueHome.Domain.csproj.CoreCompileInputs.cache

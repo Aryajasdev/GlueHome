@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GlueHome.Model/1.0.0": {
+        "runtime": {
+          "GlueHome.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GlueHome.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

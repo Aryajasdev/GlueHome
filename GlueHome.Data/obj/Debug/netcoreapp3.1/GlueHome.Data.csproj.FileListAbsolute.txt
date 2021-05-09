@@ -1,0 +1,12 @@
+C:\Interview\GlueHome\GlueHome.Data\bin\Debug\netcoreapp3.1\GlueHome.Data.deps.json
+C:\Interview\GlueHome\GlueHome.Data\bin\Debug\netcoreapp3.1\GlueHome.Data.dll
+C:\Interview\GlueHome\GlueHome.Data\obj\Debug\netcoreapp3.1\GlueHome.Data.csprojAssemblyReference.cache
+C:\Interview\GlueHome\GlueHome.Data\obj\Debug\netcoreapp3.1\GlueHome.Data.AssemblyInfoInputs.cache
+C:\Interview\GlueHome\GlueHome.Data\obj\Debug\netcoreapp3.1\GlueHome.Data.AssemblyInfo.cs
+C:\Interview\GlueHome\GlueHome.Data\obj\Debug\netcoreapp3.1\GlueHome.Data.csproj.CoreCompileInputs.cache
+C:\Interview\GlueHome\GlueHome.Data\bin\Debug\netcoreapp3.1\GlueHome.Data.pdb
+C:\Interview\GlueHome\GlueHome.Data\bin\Debug\netcoreapp3.1\GlueHome.Model.dll
+C:\Interview\GlueHome\GlueHome.Data\bin\Debug\netcoreapp3.1\GlueHome.Model.pdb
+C:\Interview\GlueHome\GlueHome.Data\obj\Debug\netcoreapp3.1\GlueHome.Data.csproj.CopyComplete
+C:\Interview\GlueHome\GlueHome.Data\obj\Debug\netcoreapp3.1\GlueHome.Data.dll
+C:\Interview\GlueHome\GlueHome.Data\obj\Debug\netcoreapp3.1\GlueHome.Data.pdb
