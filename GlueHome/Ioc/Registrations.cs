@@ -7,6 +7,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.IdentityModel.Tokens;
+using Microsoft.OpenApi.Models;
 using System.Diagnostics.CodeAnalysis;
 using System.Text;
 
@@ -25,7 +26,16 @@ namespace GlueHome.Ioc
 
             var appSettingSection = configuration.GetSection("AppSettings");
 
-            services.Configure<AppSettings>(appSettingSection);
+            services.Configure<AppSettings>(appSettingSection);           
+
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new OpenApiInfo
+                {
+                    Version = "v1",
+                    Title = "GlueHome"
+                });
+            });
 
             //JWT Authentication
             var appSettings = appSettingSection.Get<AppSettings>();
